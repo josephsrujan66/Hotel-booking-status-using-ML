@@ -43,7 +43,7 @@ Ensemble methods (Random Forest, Bagging, Extra Trees) significantly outperforme
 - Cross-Validation
 ---
 
-## 🧪 Project Workflow
+## Project Workflow
 1. Data Loading
 2. Data Preprocessing
    - Handling categorical variables
